@@ -1,0 +1,16 @@
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\bin\Debug\Dormitory.exe.config
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\bin\Debug\Dormitory.exe
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\bin\Debug\Dormitory.pdb
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\obj\Debug\Dormitory.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\obj\Debug\Dormitory.Billing.resources
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\obj\Debug\Dormitory.Form1.resources
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\obj\Debug\Dormitory.login.resources
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\obj\Debug\Dormitory.Properties.Resources.resources
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\obj\Debug\Dormitory.reserve_checkin.resources
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\obj\Debug\Dormitory.Rooms.resources
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\obj\Debug\Dormitory.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\obj\Debug\Dormitory.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\obj\Debug\Dormitory.exe
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\obj\Debug\Dormitory.pdb
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\obj\Debug\Dormitory.UserLogin.resources
+C:\Users\ACER\Downloads\Dormitory-master (1)\Dormitory-master\Dormitory\obj\Debug\Dormitory.UserSignUp.resources
